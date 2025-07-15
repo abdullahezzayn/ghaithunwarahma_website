@@ -11,7 +11,7 @@ import hikma_dark_with_navigation_view from "./hikma-dark-with-navigation-view.p
 import hikma_ligh_with_navigation_view from "./hikma-light-with-navigation-view.png"
 import instagram from "./instagram.svg";
 import linkedin from "./socials/white/linkedin-icon.png";
-import logo from "./ghaithunwarahma-trimmed-light.png";
+import logo from "./ghaithunwanama-trimmed-light.png";
 // import logo from "./logo.svg";
 import menu from "./menu.svg";
 import pinterest from "./socials/white/pinterest-round-icon.png";

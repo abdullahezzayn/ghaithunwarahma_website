@@ -34,9 +34,9 @@ const Apps = () => {
     <section id="apps" className={`${styles.paddingXAppContainer} ${styles.flexCenter} flex-col overflow-x-visible`}>
       <div ref={labelRef} className={`${ labelVisible ? 'show' : '' } animate_hidden animate_right w-full flex-col sm:mb-16 mb-6 sm:mt-16 mt-6 z-[1]`}>
       {/* <div ref={labelRef} className={`${ labelVisible ? 'show' : '' } animate_hidden animate_right w-full flex-col sm:mb-16 mb-6 z-[1]`}> */}
-        {/* <h1 className="font-lato font-semibold xs:text-[24px] text-[34px] text-[#888888] w-full">List of apps by Ghaithun warahma — Alpha stage</h1> */}
+        {/* <h1 className="font-lato font-semibold xs:text-[24px] text-[34px] text-[#888888] w-full">List of apps by Ghaithun wanama — Alpha stage</h1> */}
         <p className="text-center font-lato text-[18px] leading-[32px] text-[#d4cac8]">
-          Apps by Ghaithun waRaḥma — Alpha stage
+          Apps by Ghaithun waNama — Alpha stage
         </p>
       </div>
       <div className="overflow-x-visible sm:justify-start justify-center w-full z-[1]">

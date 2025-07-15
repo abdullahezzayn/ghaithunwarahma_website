@@ -11,8 +11,8 @@ const NavBar = () => {
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
       <a href="https://www.takarum.com">
-        {/* <img src={logo} alt="ghaithunwarahma" className="w-[64px] cursor-pointer" /> */}
-        <img src={logo} alt="ghaithunwarahma" className="w-[103.6px] cursor-pointer" />
+        {/* <img src={logo} alt="ghaithunwanama" className="w-[64px] cursor-pointer" /> */}
+        <img src={logo} alt="ghaithunwanama" className="w-[103.6px] cursor-pointer" />
       </a>
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">

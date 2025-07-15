@@ -82,7 +82,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: twitter,
-    link: "https://www.twitter.com/ghaithunwarahma",
+    link: "https://www.twitter.com/ghaithunwanama",
   },
   // {
   //   id: "social-media-2",
@@ -92,22 +92,22 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: pinterest,
-    link: "https://www.pinterest.com/ghaithunwarahma/",
+    link: "https://www.pinterest.com/ghaithunwanama/",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/company/ghaithunwarahma",
+    link: "https://www.linkedin.com/company/ghaithunwanama",
   },
   {
     id: "social-media-5",
     icon: youtube,
-    link: "https://www.youtube.com/@ghaithunwarahma",
+    link: "https://www.youtube.com/@ghaithunwanama",
   },
   {
     id: "social-media-6",
     icon: instagram,
-    link: "https://www.instagram.com/ghaithunwarahma",
+    link: "https://www.instagram.com/ghaithunwanama",
   },
   // {
   //   id: "social-media-7",

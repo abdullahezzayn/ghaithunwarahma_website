@@ -26,7 +26,7 @@ const Footer = () => (
       </div>
 
       <p className="font-poppins font-normal text-center text-[12px] leading-[27px] text-white brightness-[0.35] mt-11">
-        2025 Ghaithun waRaḥma — غَيثٌ ورَحمَة
+        2025 Gaithun waNama — غَيثٌ ونَمَاء
       </p>
     </div>
   </section>
